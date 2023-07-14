@@ -5,7 +5,13 @@ You have just been appointed as a Data Analyst for a supermarket outlet. They ar
 ## Questions
 1. What is the distribution of Male to Female customers
 2. What is the age distribution of customers
-3. How many customers are considered members (i.2,they use a loyalty card while shopping) versus normal customers
-4. Which product generates the most sales in the supermarket?
-5. Which branch generates the most sales? Which type of customers tend to use this branch the most
-6. Which city generates the most sales?which type of customer contributes the most in this city
+3. How many customers are considered members (i.e,they use a loyalty card while shopping) versus normal customers
+4.  What is the most common method of payment to the supermarket? Which type of customers use
+this method the most – describe this?
+5. Which product generates the most sales in the supermarket?
+6. Which branch generates the most sales? Which type of customers tend to use this branch the most
+7. Which city generates the most sales?which type of customer contributes the most in this city
+8. Based on the analysis you have done, what sort of strategy do you think the supermarket should
+employ (i.e., in terms of product offerings, customer retention, branch promotions)?
+9. Do you feel the Loyalty Card has resulted in more sales by members relative to normal customers?
+
